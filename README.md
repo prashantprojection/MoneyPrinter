@@ -8,7 +8,7 @@ Automate the creation of YouTube Shorts locally, simply by providing a video top
 
 ## Installation
 
-```bash
+
 git clone https://github.com/FujiwaraChoki/MoneyPrinter.git
 cd MoneyPrinter
 
@@ -25,7 +25,7 @@ python main.py
 # Run the frontend server
 cd ../Frontend
 python -m http.server 3000
-```
+
 
 See [`.env.example`](.env.example) for the required environment variables.
 
